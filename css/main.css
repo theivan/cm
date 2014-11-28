@@ -49,17 +49,6 @@ a         { color: #34495e; text-decoration: none; }
 a:hover   { color: #34495e; text-decoration: none; }
 a:visited { color: #34495e; text-decoration: none; }
 
-img {
-width: 500px;
-margin: 0px auto;
-display:block;
-padding-bottom: 30px;
-}
-img.separator{
-  width: 57px;
-  height: 50px;
-}
-
 /* Utility */
 
 .wrap:before,
