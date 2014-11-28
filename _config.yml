@@ -1,0 +1,11 @@
+# Site settings
+title: Crook & Mayor
+email: hello@ivanodbratt.com
+description: "Random"
+baseurl: ""
+url: "http://crookandmayor.com"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+paginate: 5
